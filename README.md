@@ -27,7 +27,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e busco mi
 ---
 
 ### 🤝 Vamos nos conectar?
-E estou sempre aberto a trocas de experiências e oportunidades no ecossistema tech!
+E estou sempre aberto a trocas de experiências e oportunidades!
 
 <div> 
   <a href="https://www.linkedin.com/in/joaogabrielmanacesdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
